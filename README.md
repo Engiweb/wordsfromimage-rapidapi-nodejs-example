@@ -1,1 +1,1 @@
-# wordsfromimage-rapidapi-nodejs-example-
+# wordsfromimage-rapidapi-nodejs-example
