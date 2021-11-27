@@ -1,0 +1,1 @@
+# wordsfromimage-rapidapi-nodejs-example-
